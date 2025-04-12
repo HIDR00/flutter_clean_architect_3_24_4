@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>657703551755-9kjd06h8nidda3fr6q7taln8hm9rooft.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.657703551755-9kjd06h8nidda3fr6q7taln8hm9rooft</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>657703551755-ejn8h08ruj4be4tobkk4tlipp6i3l60i.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAkDseHVfFJXok91UozoV68xJBBvMS_bGk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>657703551755</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.thedashbyte.walletsync.stg</string>
+	<key>PROJECT_ID</key>
+	<string>wallet-sync-app-stg</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wallet-sync-app-stg.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:657703551755:ios:050ada60fa62c723dd180e</string>
+</dict>
+</plist>
